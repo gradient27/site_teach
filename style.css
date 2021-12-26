@@ -1,7 +1,22 @@
-body{
-background-color: aquamarine;
-font-size: 14px;
+.header{
+background-color: #dfdfdf;
+border-color: #b5b7ba;
+border-width: 0.14px;
+border-style: solid;
+height: 48px;
+text-align: center;
+padding-top: 20px;
 }
-h1{
-    color: blue;
+
+.header a{
+    color: #4d4d4d;
+    font-size: 20px;
+    font-weight: 100;
+    padding-right: 25px;
+}
+
+.footer{
+    background-color: #434445;
+    width: 1919px;
+    height: 140px;
 }
